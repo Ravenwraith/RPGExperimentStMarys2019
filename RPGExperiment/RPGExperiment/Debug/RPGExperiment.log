@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\alex.goddard988\source\repos\rpgexperiment\rpgexperiment\source.cpp(281): warning C4101: 'zdmovement': unreferenced local variable
+c:\users\alex.goddard988\source\repos\rpgexperiment\rpgexperiment\source.cpp(277): warning C4101: 'lmovement': unreferenced local variable
+c:\users\alex.goddard988\source\repos\rpgexperiment\rpgexperiment\source.cpp(289): warning C4101: 'dmovement': unreferenced local variable
+c:\users\alex.goddard988\source\repos\rpgexperiment\rpgexperiment\source.cpp(265): warning C4101: 'zamovement': unreferenced local variable
+c:\users\alex.goddard988\source\repos\rpgexperiment\rpgexperiment\source.cpp(261): warning C4101: 'scmovement': unreferenced local variable
+c:\users\alex.goddard988\source\repos\rpgexperiment\rpgexperiment\source.cpp(273): warning C4101: 'zcmovement': unreferenced local variable
+c:\users\alex.goddard988\source\repos\rpgexperiment\rpgexperiment\source.cpp(253): warning C4101: 'samovement': unreferenced local variable
+c:\users\alex.goddard988\source\repos\rpgexperiment\rpgexperiment\source.cpp(269): warning C4101: 'zbmovement': unreferenced local variable
+c:\users\alex.goddard988\source\repos\rpgexperiment\rpgexperiment\source.cpp(257): warning C4101: 'sbmovement': unreferenced local variable
+c:\users\alex.goddard988\source\repos\rpgexperiment\rpgexperiment\source.cpp(285): warning C4101: 'zemovement': unreferenced local variable
+  RPGExperiment.vcxproj -> C:\Users\alex.goddard988\source\repos\RPGExperiment\Debug\RPGExperiment.exe
